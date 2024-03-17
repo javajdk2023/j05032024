@@ -122,6 +122,9 @@ O objetivo da manutenção é alterar os dados salvos no banco de dados da aplic
   - Opção 2 - Voltar para o menu superior.
 * Opção 6 - Voltar para o menu superior.
 
+## Abrir Editor SQL
+
+para digitarmos os comandos abaixo, vamos precisar do DBEaver instalar e configurado. Siga o passo a passo: https://github.com/javajdk2023/j05032024/blob/testar-conexao/README.md
 
 ## DDL - Criando Entidades com SQL
 
