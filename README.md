@@ -162,7 +162,7 @@ insert into usuario (cpf, idade) values ('123', 10);
 
 ### Exemplo
 
-Podemos utilizar o comando **selec** para consultar os dados de uma tabela. Por exemplo:
+Podemos utilizar o comando **select** para consultar os dados de uma tabela. Por exemplo:
 
 ```
 select * from usuario u;
