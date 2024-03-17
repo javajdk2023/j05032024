@@ -8,6 +8,20 @@
 - As duplas devem ser reunir para discutir a solução.
 - No final do módulo a dupla entregará 1 único projeto.
 
+### Pontução
+
+- Menu Completo (5 pontos)
+- Estrutura de Pacotes (1 Ponto)
+- Repository Pattern (1 Ponto)
+- Invocar API de CEP (1 Ponto)
+- Disponibilizar no Github (1 Ponto) 
+- Gerar Relatório de Vendas (1 Ponto)
+
+### Entrega
+
+- O projeto final deve ser entregue versionado no Github com o **README.md** atualizado.
+
+
 ## Criação do Projeto
 
 Crie um projeto utilizando o Maven com as seguintes configurações:
