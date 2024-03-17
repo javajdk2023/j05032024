@@ -1,5 +1,13 @@
 # Projeto  - Sistema Gerenciador de Veículos
 
+
+## Orientações
+
+- Cada integrante da dupla deve fazer o seu projeto.
+- As duplas podem compartilhar códigos entre si.
+- As duplas devem ser reunir para discutir a solução.
+- No final do módulo a dupla entregará 1 único projeto.
+
 ## Criação do Projeto
 
 Crie um projeto utilizando o Maven com as seguintes configurações:
