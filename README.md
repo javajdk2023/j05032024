@@ -66,7 +66,7 @@ Confirmar se a versão do Java foi atualizada para 17
 Adicione as seguintes dependências no seu arquivo **pom.xml**:
 
 * https://mvnrepository.com/artifact/org.postgresql/postgresql/42.7.3
-* https://mvnrepository.com/artifact/faker/faker/0.3.2
+* [https://mvnrepository.com/artifact/faker/faker/0.3.2](https://mvnrepository.com/artifact/com.github.javafaker/javafaker/1.0.2)
 * https://mvnrepository.com/artifact/com.google.code.gson/gson/2.10.1
 
 # Modelagem ER
